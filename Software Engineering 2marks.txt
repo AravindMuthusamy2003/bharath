@@ -1,0 +1,28 @@
+Software engineering 
+                             
+      It is a systematic engineering approach to software development. 
+A software engineer is a person who applies the principles of software engineering
+to design, develop, maintain,test, and evaluate computer software. 
+
+‏Characteristics of Software Engineering
+ 
+Software Characteristics are classified into six major components:
+                        *Functionality 
+                        *Portability
+                        *Maintainability
+                        *Usability 
+                        *Efficiency 
+                        *Reliabilty 
+
+SDLC Life Cycle
+      SDLC is a process followed for a software project, within a software organization. It consists of a
+detailed plan describing how to develop, maintain, replace and alter or enhance specific software. The
+life cycle defines a methodology for improving the quality of software and the overall development
+process.
+
+*Analysis
+       System analysis uncovers what software does and how it should behave. 
+
+*Design
+       Software design is the process of envisioning and defining software solutions to one
+or more sets of problems. 

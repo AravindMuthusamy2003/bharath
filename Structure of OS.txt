@@ -1,0 +1,31 @@
+Simple structure:
+           
+          Such operating systems do not have well defined structure and are small, simple and limited
+systems. The interfaces and levels of functionality are not well separated. MS-DOS is an example
+of such operating system. In MS-DOS application programs are able to access the basic 1/0
+routines. These types of operating system cause the entire system to crash if one of the user
+programs fails.
+
+Layered structure:
+
+          An OS can be broken into pieces and retain much more control on system. In this structure the OS
+is broken into number of layers (levels).
+
+         The main disadvantage of this structure is that at each layer, the data needs to be modified and
+passed on which adds overhead to the system
+
+Micro Kernel:
+          
+         This structure designs the operating system by removing all non-essential components from the
+kernel and implementing them as system and user programs. This result in a smaller kernel called
+the micro-kernel.
+        It is more secure and reliable as if a service fails then rest of the operating system remains untouched. 
+Mac OS is an example of this type of OS.
+
+Modular structure or approach:
+
+        It is considered as the best approach for an OS. It involves designing of a modular kernel. The
+kernel has only set of core components and other services are added as dynamically loadable
+modules to the kernel either during run time or boot time.
+        It resembles layered structure due to the fact that each kernel has defined and protected interfaces 
+but it is more flexible than the layered structure as a module can call any other module.

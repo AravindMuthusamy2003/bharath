@@ -1,0 +1,48 @@
+SDLC is a process followed for a software project, within a software organization. It consists of a detailed plan 
+describing how to develop, maintain, replace and alter or enhance specific software. 
+The life cycle defines a methodology for improving the quality of software and the overall development process.
+
+The following figure is a graphical representation of the various stages of a typical SDLC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stages of SDLC
+A typical Software Development Life Cycle consists of the following stages −
+
+Stage 1: Planning and Requirement Analysis
+       Requirement analysis is the most important and fundamental stage in SDLC. It is performed by the senior members of the 
+team with inputs from the customer, the sales department, market surveys and domain experts in the industry. 
+
+Stage 2: Defining Requirements
+       Once the requirement analysis is done the next step is to clearly define and document the product requirements and get 
+them approved from the customer or the market analysts. 
+
+Stage 3: Designing the Product Architecture
+       SRS is the reference for product architects to come out with the best architecture for the product to be developed. 
+Based on the requirements specified in SRS, usually more than one design approach for the product architecture is proposed 
+and documented in a DDS - Design Document Specification.
+This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment, product robustness, 
+design modularity, budget and time constraints, the best design approach is selected for the product.
+
+Stage 4: Building or Developing the Product
+       In this stage of SDLC the actual development starts and the product is built. The programming code is generated as per DDS 
+during this stage. If the design is performed in a detailed and organized manner, code generation can be accomplished 
+without much hassle.
+
+Stage 5: Testing the Product
+      This stage refers to the testing only stage of the product where product defects are reported, tracked, fixed and retested, until 
+the product reaches the quality standards defined in the SRS.
+
+Stage 6: Deployment in the Market and Maintenance
+      Once the product is tested and ready to be deployed it is released formally in the appropriate market. 
